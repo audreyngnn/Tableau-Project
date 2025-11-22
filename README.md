@@ -1,6 +1,6 @@
 # Earthquake Risk Patterns Analysis
 # Global Earthquake Risk Analysis: Insights to Action
-### Tool: Tableau
+##### Tool: Tableau
 
 by *Audrey Nguyen*
 
@@ -10,11 +10,13 @@ by *Audrey Nguyen*
 
 This analysis transforms earthquake data into actionable emergency management strategies. Here's what the data tells us and what we should do about it.
 
-
+<br>
 
 ## Insight 1: Geographic Risk Distribution
 <img width="782" height="418" alt="image" src="https://github.com/user-attachments/assets/e1bf5815-c4ea-40cb-8852-c0f9727496c3" />
+
 <br>
+
 | What We Found | What We Should Do |
 |--------------|-------------------|
 | **Critical red zones**: Western US (California, Texas), Alaska, Mexico - shallow earthquakes with highest surface impact | Deploy resources to high-risk orange/brown zones FIRST |
@@ -23,10 +25,12 @@ This analysis transforms earthquake data into actionable emergency management st
 | Risk calculated as: Magnitude × 1/Depth | Plan infrastructure reinforcement in zones with consistent activity |
 
 <br>
-<br>
+
 ## Insight 2: Response Time and Tsunami Correlation
 <img width="784" height="410" alt="image" src="https://github.com/user-attachments/assets/072721d1-16ea-4a00-ab0a-eb177d965645" />
+
 <br>
+
 | What We Found | What We Should Do |
 |--------------|-------------------|
 | Response times range from immediate to nearly 5 hours based on distance to nearest city | Establish rapid response units in coastal high-risk areas |
@@ -34,10 +38,12 @@ This analysis transforms earthquake data into actionable emergency management st
 | Most tsunami events occur in areas with 2-4 hour response windows | Develop dedicated protocols for areas where response exceeds 3 hours |
 | Coastal regions face additional offshore access challenges | Position emergency resources strategically along high-frequency coastlines |
 
-
+<br>
 
 ## Insight 3: Monthly Seasonal Patterns
 <img width="786" height="607" alt="image" src="https://github.com/user-attachments/assets/ab7a6bf0-569e-442f-a2ad-33397269cb23" />
+
+<br>
 
 | What We Found | What We Should Do |
 |--------------|-------------------|
@@ -47,10 +53,12 @@ This analysis transforms earthquake data into actionable emergency management st
 | **Inverse relationship**: Lower frequency months show higher magnitudes | Develop dual response protocols: high-volume/low-magnitude vs low-volume/high-magnitude |
 | Total annual events: 1,137 | Implement seasonal staffing patterns aligned with frequency peaks |
 
-\n 
+<br>
 
 ## Insight 4: Hourly Activity Patterns
 <img width="790" height="337" alt="image" src="https://github.com/user-attachments/assets/14041097-54a3-4958-9c05-ac5a45b393e2" />
+
+<br>
 
 | What We Found | What We Should Do |
 |--------------|-------------------|
@@ -60,10 +68,12 @@ This analysis transforms earthquake data into actionable emergency management st
 | **12PM-2PM low**: 30-35 events (lowest activity) | Use 12PM-2PM window for training and maintenance |
 | Magnitude range throughout day: 4.3-5.3 | Schedule shift changes outside peak activity periods |
 
-\n
+<br>
 
 ## Insight 5: Long-term Trend Forecast (2023-2025)
 <img width="844" height="368" alt="image" src="https://github.com/user-attachments/assets/953fd39f-624e-4f26-982e-1b43a99e63e6" />
+
+<br>
 
 | What We Found | What We Should Do |
 |--------------|-------------------|
@@ -73,7 +83,7 @@ This analysis transforms earthquake data into actionable emergency management st
 | Forecast shows stabilization with widening uncertainty margins | Redistribute resources from high-magnitude response to multiple simultaneous lower-magnitude event management |
 | Clear upward trend in frequency, downward trend in magnitude | Implement monthly forecast reviews to adjust resource allocation |
 
-\n
+<br>
 
 ## The Bottom Line
 
