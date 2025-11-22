@@ -1,10 +1,11 @@
 # Earthquake Risk Patterns Analysis
 # Global Earthquake Risk Analysis: Insights to Action
-##### Tool: Tableau
+
+<span style="color: #0066CC;">Tool: Tableau</span>
 
 by *Audrey Nguyen*
 
----
+<br>
 
 ## From Data to Decisions
 
@@ -13,7 +14,9 @@ This analysis transforms earthquake data into actionable emergency management st
 <br>
 
 ## Insight 1: Geographic Risk Distribution
-<img width="782" height="418" alt="image" src="https://github.com/user-attachments/assets/e1bf5815-c4ea-40cb-8852-c0f9727496c3" />
+<div align="center">
+  <img width="782" height="418" alt="image" src="https://github.com/user-attachments/assets/e1bf5815-c4ea-40cb-8852-c0f9727496c3" />
+</div>
 
 <br>
 
