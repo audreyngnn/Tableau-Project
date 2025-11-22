@@ -1,5 +1,8 @@
-<h2 style="color: blue;">Global Earthquake Risk Analysis: Insights to Action</h2> by <i>Audrey Nguyen</i>
-### Tool: Tableau
+<h1 align="center" style="color: #4A9EFF;">Global Earthquake Risk Analysis</h1>
+
+by *Audrey Nguyen*
+
+**Tool: Tableau**
 
 
 
