@@ -22,11 +22,11 @@ This analysis transforms earthquake data into actionable emergency management st
 | **Lower-risk blue zones**: Peru-Chile border, Afghanistan-Pakistan - deep earthquakes with reduced surface impact | Build regional response centers near high-risk areas |
 | Risk calculated as: Magnitude × 1/Depth | Plan infrastructure reinforcement in zones with consistent activity |
 
-
-
+<br>
+<br>
 ## Insight 2: Response Time and Tsunami Correlation
 <img width="784" height="410" alt="image" src="https://github.com/user-attachments/assets/072721d1-16ea-4a00-ab0a-eb177d965645" />
-
+<br>
 | What We Found | What We Should Do |
 |--------------|-------------------|
 | Response times range from immediate to nearly 5 hours based on distance to nearest city | Establish rapid response units in coastal high-risk areas |
