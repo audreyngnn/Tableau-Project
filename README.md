@@ -1,9 +1,6 @@
-# Earthquake Risk Patterns Analysis
-# Global Earthquake Risk Analysis: Insights to Action
-
-<span style="color: #0066CC;">Tool: Tableau</span>
-
-by *Audrey Nguyen*
+## Global Earthquake Risk Analysis: Insights to Action
+#### <span style="color: #0066CC;">Tool: Tableau</span>
+#### by *Audrey Nguyen*
 
 <br>
 
@@ -30,7 +27,9 @@ This analysis transforms earthquake data into actionable emergency management st
 <br>
 
 ## Insight 2: Response Time and Tsunami Correlation
-<img width="784" height="410" alt="image" src="https://github.com/user-attachments/assets/072721d1-16ea-4a00-ab0a-eb177d965645" />
+<div align="center">
+  <img width="784" height="410" alt="image" src="https://github.com/user-attachments/assets/072721d1-16ea-4a00-ab0a-eb177d965645" />
+</div>
 
 <br>
 
@@ -44,7 +43,10 @@ This analysis transforms earthquake data into actionable emergency management st
 <br>
 
 ## Insight 3: Monthly Seasonal Patterns
-<img width="786" height="607" alt="image" src="https://github.com/user-attachments/assets/ab7a6bf0-569e-442f-a2ad-33397269cb23" />
+<div align="center">
+  <img width="786" height="607" alt="image" src="https://github.com/user-attachments/assets/ab7a6bf0-569e-442f-a2ad-33397269cb23" />
+</div>
+
 
 <br>
 
@@ -59,7 +61,9 @@ This analysis transforms earthquake data into actionable emergency management st
 <br>
 
 ## Insight 4: Hourly Activity Patterns
-<img width="790" height="337" alt="image" src="https://github.com/user-attachments/assets/14041097-54a3-4958-9c05-ac5a45b393e2" />
+<div align="center">
+  <img width="790" height="337" alt="image" src="https://github.com/user-attachments/assets/14041097-54a3-4958-9c05-ac5a45b393e2" />
+</div>
 
 <br>
 
@@ -74,7 +78,9 @@ This analysis transforms earthquake data into actionable emergency management st
 <br>
 
 ## Insight 5: Long-term Trend Forecast (2023-2025)
-<img width="844" height="368" alt="image" src="https://github.com/user-attachments/assets/953fd39f-624e-4f26-982e-1b43a99e63e6" />
+<div align="center">
+  <img width="844" height="368" alt="image" src="https://github.com/user-attachments/assets/953fd39f-624e-4f26-982e-1b43a99e63e6" />
+</div>
 
 <br>
 
