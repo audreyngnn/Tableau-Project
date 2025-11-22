@@ -14,7 +14,7 @@ This analysis transforms earthquake data into actionable emergency management st
 
 ## Insight 1: Geographic Risk Distribution
 <img width="782" height="418" alt="image" src="https://github.com/user-attachments/assets/e1bf5815-c4ea-40cb-8852-c0f9727496c3" />
-
+<br>
 | What We Found | What We Should Do |
 |--------------|-------------------|
 | **Critical red zones**: Western US (California, Texas), Alaska, Mexico - shallow earthquakes with highest surface impact | Deploy resources to high-risk orange/brown zones FIRST |
