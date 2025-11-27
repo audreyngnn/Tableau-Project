@@ -1,10 +1,6 @@
-<h1 align="center" style="color: #4A9EFF;">Global Earthquake Risk Analysis</h1>
-
-by *Audrey Nguyen*
-
-**Tool: Tableau**
-
-
+<h1 align="center" style="color: #4A9EFF;">Global Earthquake Risk Analysis</h1> 
+<h3 align="center" style="color: #4A9EFF;">by Audrey Nguyen</h3> 
+<h3 align="center" style="color: #4A9EFF;">Tool: Tableau</h3> 
 
 <br>
 
